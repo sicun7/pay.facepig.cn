@@ -5,4 +5,4 @@
 * win or linux
 
 
-后台入口：/ysmd
+后台入口：/fpadmin

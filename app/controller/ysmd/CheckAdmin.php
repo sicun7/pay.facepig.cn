@@ -1,12 +1,12 @@
 <?php
-namespace YS\app\controller\ysmd;
+namespace YS\app\controller\fpadmin;
 
 use YS\app\libs\Controller;
 use YS\app\Config;
 
 class CheckAdmin extends Controller
 {
-    public $dir = '/ysmd/';
+    public $dir = '/fpadmin/';
     public $action;
     function __construct()
     {

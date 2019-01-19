@@ -1,5 +1,5 @@
 <?php
-namespace YS\app\controller\ysmd;
+namespace YS\app\controller\fpadmin;
 
 use YS\app\libs\Controller;
 
