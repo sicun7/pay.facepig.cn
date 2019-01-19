@@ -619,7 +619,7 @@ ul.tpl-dropdown-content li>a.tpl-dropdown-content-message:last-child {
 
 .tpl-left-nav-content {
     background-color: #36c6d3;
-    border-radius: 1000px;
+    border-radius: 5px;
     color: #fff!important;
     padding: 0px 8px!important;
     float: right;

@@ -37,10 +37,6 @@
         <ul class="am-nav am-nav-pills am-topbar-nav am-topbar-right admin-header-list tpl-header-list">
 
 
-            <li class="am-hide-sm-only"><a href="javascript:;" id="admin-fullscreen" class="tpl-header-list-link"><span
-                            class="am-icon-arrows-alt"></span> <span class="admin-fullText">开启全屏</span></a></li>
-
-
         </ul>
     </div>
 </header>

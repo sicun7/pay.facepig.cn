@@ -227,14 +227,6 @@
                         <td><?php echo  round((disk_free_space(".")/(1024*1024)),2).'M'?></td>
                     </tr>
                     <tr>
-                        <td>云尚官网</td>
-                        <td><a href="http://www.yunscx.com">www.yunscx.com</a></td>
-                    </tr>
-                    <tr>
-                        <td>交流QQ群</td>
-                        <td><a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=d205548c9336cfc7faf4a7cd43af22c53a3c48ea2a6d6a9de0e5d1668359007f"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="云尚软件交流群" title="云尚软件交流群"></a></td>
-                    </tr>
-                    <tr>
                         <td>当前系统版本</td>
                         <td><?php echo  $version ?> <a href="javascript:;" onclick="checkUpdate('<?php echo  $version ?>')" class="btn btn-sm btn-success"><i class="glyphicon glyphicon-eye-open"></i>检测更新</a></td>
                     </tr>

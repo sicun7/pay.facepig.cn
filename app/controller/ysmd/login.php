@@ -7,7 +7,7 @@ class login extends CheckAdmin
 {
     public function index()
     {
-        $data = array('title' => '云尚发卡管理登录');
+        $data = array('title' => '脸猪发卡管理登录');
         $this->put('login.php', $data);
     }
     public function sigin()

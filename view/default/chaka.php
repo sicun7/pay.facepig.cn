@@ -39,7 +39,6 @@
         </div>
         <ol class="am-breadcrumb">
             <li><a href="" class="am-icon-home">订单查询</a></li>
-
         </ol>
         <div class="tpl-content-scope">
             <div class="note note-info">
@@ -61,7 +60,7 @@
         <div class="tpl-portlet-components">
             <div class="portlet-title">
                 <div class="caption font-green bold">
-                    <span class="am-icon-code"></span> 订单查询
+                    <span class=""></span> 订单查询
                 </div>
                 <div class="tpl-portlet-input tpl-fz-ml">
 
@@ -118,7 +117,7 @@
                                 <th class="table-paytype">支付方式</th>
                                 <th class="table-status">状态</th>
                                 <th class="table-date am-hide-sm-only">下单时间</th>
-                                <th class="table-set">操作</th>
+                                <th class="table-set">查看卡密</th>
                             </tr>
                             </thead>
 
