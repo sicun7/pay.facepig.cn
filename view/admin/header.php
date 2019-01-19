@@ -40,7 +40,7 @@
                         <div class="col-md-4 col-sm-4 col-xs-8">
                             <div class="logo">
                                 <a href="<?php echo $this->dir?>">
-                                    <img src="/static/default/images/logo.png">
+                                     脸猪发卡管理 
                                     &nbsp;
                                     <span class="label label-danger">
                                         管理面板
