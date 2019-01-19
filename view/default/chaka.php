@@ -89,7 +89,7 @@
 
                     <div class="am-u-sm-12 am-u-md-3">
                         <div class="am-input-group am-input-group-sm">
-                            <input type="text" id="account" name="account" value="" placeholder="充值账号搜索" required
+                            <input type="text" id="account" name="account" value="" placeholder="输入充值邮箱搜索" required
                                    class="am-form-field">
                             <span class="am-input-group-btn">
             <button class="am-btn  am-btn-default am-btn-success tpl-am-btn-success am-icon-search"
