@@ -115,7 +115,7 @@
                                     </div>
 
 
-                                    <div class="am-form-group" id="okshop">
+                                    <div class="am-form-group" id="okshop" style="margin-top: 10px;">
 
                                         <div class="am-u-sm-12 am-u-sm-push-5">
                                             <a onclick="okOrder()" class="am-btn am-btn-primary">确认购买</a>

@@ -144,8 +144,8 @@ class index extends Controller
         $html = "<div class=\"am-form-group\" id=\"sgoktips\">
                 <div class=\"am-alert am-alert-success\"><strong>订单保存成功，请点击以下方式在线付款：</strong></div>
                 </div>
-                <div class=\"am-form-group\">
-                <div class=\"am-u-sm-12 am-u-sm-push-2\">";
+                <div class=\"am-form-group\" style=\"text-align:center;margin-top:10px;\">
+                <div class=\"\">";
         /**
          * 支付方式选择
          */
@@ -155,7 +155,7 @@ class index extends Controller
             foreach ($payset as $v){
                 switch ($v['code']){
                     case 'zfbf2f':
-                        $html.= "<a  href=\"/pay/index?id=".$orderid."&type=alipay&paycode=".$v['code']."\" class=\"am-btn am-btn-warning am-round am-icon-credit-card-alt\">支付宝当面付</a>";
+                        $html.= "<a  style=\"margin-right:15px;\" href=\"/pay/index?id=".$orderid."&type=alipay&paycode=".$v['code']."\" class=\"am-btn am-btn-warning am-round am-icon-credit-card-alt\">支付宝当面付</a>";
                         break;
                     case 'alipay':
                         $html.= "<a  href=\"/pay/index?id=".$orderid."&type=alipay&paycode=".$v['code']."\" class=\"am-btn am-btn-warning am-round am-icon-credit-card-alt\">支付宝即时到账</a>";
