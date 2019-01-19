@@ -12,7 +12,7 @@ $order = $payDao->checkOrder($orderid);
 $payconf = $payDao->checkAcp('alipay');
 
 $config = [
-    'use_sandbox' => true,
+    'use_sandbox' => false,
     'app_id' => $payconf['email'],    //应用appid
     'sign_type' => 'RSA2',
     'ali_public_key' => $payconf['userid'],
