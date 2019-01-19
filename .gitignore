@@ -1,0 +1,6 @@
+.idea/*
+install/install.lock
+logs/*
+app/db.php
+/nbproject
+.DS_Store
