@@ -7,7 +7,7 @@
     <div id="footer">
         &copy;&nbsp;2018&nbsp;
         <?php echo $this->
-            config['sitename']?>&nbsp; 脸猪返利机器人 <a href="http://www.facepig.cn" target="_blank">www.facepig.cn</a>
+            config['sitename']?>&nbsp; 脸猪机器人 <a href="http://www.facepig.cn" target="_blank">www.facepig.cn</a>
     </div>
     <div class="modal" id="waModal" role="dialog" aria-labelledby="waModalLable">
         <div class="modal-dialog">
