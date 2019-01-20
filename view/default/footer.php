@@ -6,11 +6,11 @@
         data-am-footer="{  }">
     <div class="am-footer-switch">
         <a id="godesktop" data-rel="desktop" class="am-footer-desktop" href="http://www.facepig.cn" target="_blank">
-            脸猪返利机器人官网
+            脸猪机器人官网
         </a>
     </div>
     <div class="am-footer-miscs ">
-        <p> © Copyright 2018 脸猪返利机器人 版权所有</p>
+        <p> © Copyright 2018 脸猪机器人 版权所有</p>
         <p><?php echo $this->config['icpcode']?></p>
     </div>
 </footer>
