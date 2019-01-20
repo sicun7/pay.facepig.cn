@@ -99,9 +99,9 @@
                                     </div>
 
                                     <div class="am-form-group">
-                                        <label for="kuc" class=" am-form-label">商品库存</label>
+                                        <!-- <label for="kuc" class=" am-form-label">商品库存</label> -->
                                         <div class="">
-                                            <input type="text" id="kuc" class="am-form-field am-round"
+                                            <input type="hidden" id="kuc" class="am-form-field am-round"
                                                    disabled="disabled" value="">
                                         </div>
                                     </div>
